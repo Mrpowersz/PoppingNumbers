@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoppinNumbers", "PoppinNumbers\PoppinNumbers.csproj", "{17A0528C-6D4A-4BE8-A352-1BC2BBB36F2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17A0528C-6D4A-4BE8-A352-1BC2BBB36F2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17A0528C-6D4A-4BE8-A352-1BC2BBB36F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17A0528C-6D4A-4BE8-A352-1BC2BBB36F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17A0528C-6D4A-4BE8-A352-1BC2BBB36F2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FE0FBA7-CF20-4D9F-A08B-4E0BFB898A26}
+	EndGlobalSection
+EndGlobal
